@@ -1,0 +1,25 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "exemple site blackhole",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansour-iman/blackhole.git"
+  },
+  "keywords": [
+    "exemple"
+  ],
+  "author": "Mansour Iman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansour-iman/blackhole/issues"
+  },
+  "homepage": "https://github.com/mansour-iman/blackhole#readme",
+  "dependencies": {
+    "myasync-imansour": "^1.0.0"
+  }
+}
